@@ -1,6 +1,6 @@
 ## Hi there 👋 , I`m Pablo
 
-In this place I will share projects, exercises, and documentation of my learning path in front-end developer and search engine optimization. Feel free to review, copy and use any resources.Feedback is always welcome !
+In this place I will share projects, exercises, and documentation of my learning path in front-end developer. Feel free to review, copy and use any resources.Feedback is always welcome !
 
 ---
 ⚒ My Development Toolbelt
